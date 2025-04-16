@@ -26,43 +26,45 @@ To open the files:
 - Use **SQL Server Management Studio (SSMS)**, or any SQL editor of your choice.
 - Make sure you're connected to the appropriate database before running the scripts.
 
-## Content
+## Query Structure
+
 This project consists of 33 SQL queries, which cover various aspects of business profitability analysis:
 
 ### 📌Queries:
-1. Overview Ship mode, Order priority
-2. Trending Customer
-3. Sales and Profit by Category
-4. Bottom 10 Sub-Categories by Profit
-5. Top 3 Lowest Profit Products in 'Tables' Sub-Category
-6. Sales and Profit by Market for 3 Table Products
-7. Sales and Profit by Segment for 3 Table Products
-8. Sales by Region and Segment for 3 Table Products
-9. Profit Over Time for 3 Table Products
-10. Top 5 products with the lowest total profit
-11. Sales, Profit and Discount by Market for Top 5 Loss Products
-12. Sales and Profit Over Time for Top 5 Loss Products
-13. Profit by Market
-14. Profit by Region
-15. Top 10 Countries with the Biggest Loss
-16. Country with Most Loss in each Market
-17. Number of Loss Orders by Country (Nigeria, Turkey, Netherlands, Honduras)
-18. Top 3 Cities with Most Loss in Each Country
-19. Category Performance in Nigeria
-20. Top 10 Sub-Categories with Most Loss in Nigeria
-21. Top 10 Products with Most Loss in Nigeria
-22. Top 10 Nigeria Cities by Number of Loss Orders
-23. Categories with Most Loss in Lagos city
-24. Sub-Categories with Most Loss in Lagos city
-25. Top 10 Products with Most Loss in Lagos city
-26. All Orders in Lagos
-27. Top 3 Orders with Biggest Loss in Amsterdam, Lagos, Istanbul, Tegucigalpa
-28. Sales and Profit by Segment
-29. Top 3 Customers with Most Loss in Each Segment
-30. Total sales and profit for each segment in each market
-31. Profit by Segment in Netherlands, Nigeria, Turkey, Honduras
-32. Profit by Segment in Lagos, Amsterdam, Istanbul
-33. Orders from Top 3 Loss-Making Customers in Each Segment
+
+1. Overview of Ship Mode and Order Priority.  
+2. Trending Customers.  
+3. Sales and Profit by Category.  
+4. Bottom 10 Sub-Categories by Profit. ('Tables' is the Lowest Profit Sub-category).  
+5. Top 3 Lowest Profit Products in the 'Tables' Sub-category.  
+6. Sales and Profit by Market for the Top 3 Lowest Profit Table Products.  
+7. Sales and Profit by Segment for the Top 3 Lowest Profit Table Products.  
+8. Sales by Region and Segment for the Top 3 Lowest Profit Table Products.  
+9. Profit Over Time for the Top 3 Lowest Profit Table Products.  
+10. Overview of the Top 5 Products with the Lowest Total Profit.  
+11. Sales, Profit, and Average Discount by Market for the Top 5 Loss Products.  
+12. Sales and Profit Over Time for the Top 5 Loss Products.  
+13. Overview of Profit by Market.  
+14. Overview of Profit by Region.  
+15. Top 10 Countries with the Biggest Losses.  
+16. Country with the Most Loss in Each Market.  
+17. Number of Loss Orders by Countries with the Biggest Losses (Nigeria, Turkey, Netherlands, Honduras).  
+18. Top 3 Cities with the Most Loss in Each Country.  
+19. Category Performance in Nigeria. (Choose Nigeria for drill-down queries).  
+20. Top 10 Sub-categories with the Most Loss in Nigeria.  
+21. Top 10 Products with the Most Loss in Nigeria.  
+22. Top 10 Nigerian Cities by Number of Loss Orders. (Lagos is the highest).  
+23. Categories with the Most Loss in Lagos City.  
+24. Sub-categories with the Most Loss in Lagos City.  
+25. Top 10 Products with the Most Loss in Lagos City.  
+26. All Orders in Lagos.  
+27. Top 3 Orders with the Biggest Loss in Amsterdam, Lagos, Istanbul, Tegucigalpa. (The cities with the highest losses in Nigeria, Turkey, Netherlands, Honduras).  
+28. Sales and Profit by Segment.  
+29. Top 3 Customers with the Most Loss in Each Segment.  
+30. Total Sales and Profit for Each Segment in Each Market.  
+31. Profit by Segment in Netherlands, Nigeria, Turkey, and Honduras.  
+32. Profit by Segment in Lagos, Amsterdam, and Istanbul.  
+33. Orders from the Top 3 Loss-Making Customers in Each Segment.  
 
 ### 📌Procedures: 
 
