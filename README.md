@@ -1,4 +1,4 @@
-# Profitability Diagnostics & Loss Driver Analysis Using Advanced SQL
+# Profitability Diagnostics & Loss Root Cause Analysis Using Advanced SQL
 
 ## Description
 This project utilizes SQL for root cause analysis, allowing the identification of underperforming products, high-risk customers, and unprofitable regions through drill-down queries. By leveraging advanced SQL techniques, it offers a data-driven approach to enhance decision-making and drive profitability improvements.
